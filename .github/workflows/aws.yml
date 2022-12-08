@@ -86,3 +86,4 @@ jobs:
         service: sample-app-service
         cluster: default
         wait-for-service-stability: true
+         hey this is new data
